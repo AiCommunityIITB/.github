@@ -16,6 +16,8 @@ InstiGPT is our flagship product, designed to leverage the power of AI to assist
 
 Navigating through extensive research papers can be daunting. Our Research Paper Summarizer utilizes advanced Natural Language Processing (NLP) techniques to provide concise and accurate summaries of academic papers. This tool is invaluable for researchers and students, helping them stay updated with the latest developments in their fields without the time-consuming task of reading through entire papers.
 
+#### More Comming Soon...
+
 ## Our Commitment
 
 ### Exploring New Frontiers in AI Research
@@ -32,6 +34,6 @@ If you are passionate about AI and want to be part of a community that is shapin
 
 ---
 
-For more information, visit our [GitHub repository](https://github.com/AICommunityIITB) and connect with us on [social media](https://twitter.com/AICommunityIITB).
+For more information, visit our [GitHub repository](https://github.com/AICommunityIITB) and connect with us on [social media](linktr.ee/ai_community_iitb).
 
 Let's build the future with AI!
